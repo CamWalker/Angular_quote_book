@@ -1,0 +1,62 @@
+body {
+  margin: 0px;
+  width: 100%;
+}
+
+input {
+    border-radius: 5px;
+    border: 1px solid;
+    padding: 3px;
+}
+
+.searchbar {
+  border-radius: 10px;
+  padding: 7px;
+  font-size: 16px;
+  width: 25%;
+}
+cite {
+  font-family: cursive;
+}
+p {
+  font-family: fantasy;
+  margin: 0px;
+}
+.container {
+  width: 80%;
+  margin: auto;
+  padding-top: 30px;
+}
+.box {
+  padding: 20px;
+  border: 2px solid black;
+  border-radius: 10px;
+  background: rgb(252, 246, 220);
+}
+.lower {
+  margin-top: 35px;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+}
+.remove {
+  border-radius: 10px;
+  border: none;
+  background: rgb(82, 27, 27);
+  color: white;
+  width: 100px;
+  height: 30px;
+}
+
+.newQuote {
+  width: 90%;
+}
+.newAuthor {
+  width: 20%;
+}
+.new-box {
+  padding: 20px;
+  border: 2px solid black;
+  border-radius: 10px;
+  background: rgb(254, 252, 244);
+}
